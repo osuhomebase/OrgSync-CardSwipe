@@ -1,0 +1,21 @@
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="1303" measuredH="640" mockupW="282" mockupH="573">
+  <controls>
+    <control controlID="13" controlTypeID="com.balsamiq.mockups::Image" x="1047" y="232" w="231" h="204" measuredW="679" measuredH="597" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <crop>265%2C103%2C466%2C694</crop>
+        <src>./nyu-home.png</src>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="14" controlTypeID="com.balsamiq.mockups::iPhone" x="1021" y="67" w="-1" h="-1" measuredW="282" measuredH="573" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <model>IPhone5</model>
+      </controlProperties>
+    </control>
+    <control controlID="15" controlTypeID="com.balsamiq.mockups::Canvas" x="1047" y="164" w="231" h="135" measuredW="100" measuredH="70" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>2101837</color>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>

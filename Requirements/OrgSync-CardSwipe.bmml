@@ -1,0 +1,77 @@
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="946" measuredH="670" mockupW="780" mockupH="574">
+  <controls>
+    <control controlID="0" controlTypeID="com.balsamiq.mockups::BrowserWindow" x="169" y="96" w="776" h="555" measuredW="450" measuredH="400" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>A%20Web%20Page%0Ahttp%3A//</text>
+      </controlProperties>
+    </control>
+    <control controlID="1" controlTypeID="com.balsamiq.mockups::Canvas" x="167" y="169" w="240" h="455" measuredW="100" measuredH="70" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>10066329</color>
+      </controlProperties>
+    </control>
+    <control controlID="2" controlTypeID="com.balsamiq.mockups::Canvas" x="166" y="169" w="779" h="53" measuredW="100" measuredH="70" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <backgroundAlpha>0.5</backgroundAlpha>
+        <color>10027263</color>
+      </controlProperties>
+    </control>
+    <control controlID="3" controlTypeID="com.balsamiq.mockups::Label" x="204" y="179" w="-1" h="-1" measuredW="196" measuredH="32" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bold>true</bold>
+        <color>16777215</color>
+        <size>24</size>
+        <text>NYU%20-%20Something</text>
+      </controlProperties>
+    </control>
+    <control controlID="4" controlTypeID="com.balsamiq.mockups::Label" x="436" y="179" w="-1" h="-1" measuredW="293" measuredH="32" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bold>true</bold>
+        <color>16777215</color>
+        <size>24</size>
+        <text>Student%20Event%20Swipe%20Tool</text>
+      </controlProperties>
+    </control>
+    <control controlID="7" controlTypeID="com.balsamiq.mockups::Menu" x="204" y="267" w="185" h="-1" measuredW="150" measuredH="146" zOrder="5" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Dashboard%0A---%0ATerm%20Management%0AFinancials%20Management%0AMeal%20Plan%20Management%0AClassification%20Management%0A---%0AStudent%20Lookup</text>
+      </controlProperties>
+    </control>
+    <control controlID="8" controlTypeID="com.balsamiq.mockups::Menu" x="204" y="267" w="185" h="-1" measuredW="150" measuredH="146" zOrder="6" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Welcome%20Mike%20Baron%0A---%0A*Today%27s%20Events*%0AUltraViolet%20Live%0AStrawberry%20Festival%0ACavs%20Vs%20OKC%0A---%0AEvent%20Lookup</text>
+      </controlProperties>
+    </control>
+    <control controlID="9" controlTypeID="com.balsamiq.mockups::Label" x="425" y="241" w="483" h="-1" measuredW="446" measuredH="32" zOrder="7" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>24</size>
+        <text>UltraViolet%20Live%20-%20237%20Guests%20Checked%20In</text>
+      </controlProperties>
+    </control>
+    <control controlID="10" controlTypeID="com.balsamiq.mockups::Label" x="425" y="273" w="-1" h="-1" measuredW="54" measuredH="26" zOrder="8" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>18</size>
+        <text>Swipe%21</text>
+      </controlProperties>
+    </control>
+    <control controlID="11" controlTypeID="com.balsamiq.mockups::Image" x="495" y="349" w="141" h="141" measuredW="2228" measuredH="2306" zOrder="9" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>./red_icon.png</src>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="12" controlTypeID="com.balsamiq.mockups::Label" x="465" y="314" w="219" h="-1" measuredW="204" measuredH="26" zOrder="10" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>18</size>
+        <text>Error%3A%20Student%20Not%20Found</text>
+      </controlProperties>
+    </control>
+    <control controlID="13" controlTypeID="com.balsamiq.mockups::Image" x="170" y="167" w="776" h="503" measuredW="924" measuredH="597" zOrder="11" locked="false" isInGroup="-1">
+      <controlProperties>
+        <crop>193%2C103%2C634%2C694</crop>
+        <src>./nyu-home.png</src>
+        <text/>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>
